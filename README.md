@@ -5,6 +5,7 @@ TFCHAOS is a plugin for SourceMod that makes tf2 super wacky, where it's basical
 
 
 
-#Credits
+# Credits
 Me
+
 Infinite Buildings: https://github.com/KatsuteTF/Infinite-Buildings/
